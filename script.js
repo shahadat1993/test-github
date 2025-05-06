@@ -14,3 +14,6 @@
 // me coding
 var a = 10;
 var b = 12;
+
+let sum = a + b;
+console.log(sum);
